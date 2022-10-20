@@ -1,0 +1,145 @@
+body {
+  background-image: url(http://1.bp.blogspot.com/-4XZ7JTeJH_Y/TsaAYPiMYSI/AAAAAAAAAcU/_-8fu6GQ7eI/s600/matrix.gif);
+  color: wheat;
+  font-family: "Open Sans", Arial;
+  font-size: 17px;
+  padding: 15px;
+  margin: 0;
+}
+
+.container {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 { text-align: center; }
+
+.navbar { 
+  text-align: center; 
+  margin-bottom: 25px;
+}
+
+.list-nav {
+    padding: 0;
+    margin: 0; 
+}
+
+.list-nav li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.list-nav a { font-size: 20px; }
+.list-nav li a.active {color:silver;} 
+a:hover { color: silver; }
+
+a { 
+  color: black; 
+  text-decoration:none;
+  background-color: silver;
+}
+
+.content { 
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/339/115/674/motion-blue-sky-gradation-wallpaper-preview.jpg); 
+  border-radius: 10px;
+}
+
+.content-header{ margin-bottom: 0; }
+
+.content-text {
+   font-size: 20px;
+   margin: 0;
+}
+
+#content-img {
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/339/115/674/motion-blue-sky-gradation-wallpaper-preview.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 400px;
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#content-img img {
+  max-width: 50%;
+  margin-bottom: -15px;
+}
+
+.content1 {
+  padding: 15%;
+  font-size: 30px;
+}
+
+.section {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.section-small {
+  max-width: 490px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.section-header {
+  color: silver;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+hr {
+  width: 60%;
+  border: 0.5px solid #ccc;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+  padding-bottom: 20px;
+}
+
+th {
+  color:black;
+  font-weight: 400;
+  font-size: 1.2rem;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+td {
+  text-align: center;
+  padding: 10px 15px;
+}
+
+.text-left { text-align: left; }
+tr:nth-child(odd) { background-color: rgb(49, 49, 173); }
+
+tr.tr-header {
+  background-color:rgb(81, 79, 212);
+  height: 50px;
+}
+
+.footer-text {
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+.makan {
+  font-size: 200%;
+  text-align: center;
+  color: silver;
+}
+
